@@ -1,5 +1,5 @@
-
-### Bienvenido 👋
+<h1 align="center">🔥 Bienvenido a mi perfil de Github 🔥</h2>
+<p align="center"><img src="18838.gif" width=300 height=300/></p> 
 
 Here are some ideas to get you started:
 
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 
 • 🛠️ Lenguajes que domino: PYTHON, HTML5, BASH, PHP, C++, MYSQL5
 
-<p align="center"><img src="18838.gif"/></p> 
+
 
