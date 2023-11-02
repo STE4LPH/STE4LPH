@@ -8,3 +8,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: STE4LPH-HYDR4
 - ⚡ Fun fact: ?-?-?
 
+• 🛠️ Lenguajes que domino: PYTHON, HTML5, BASH, PHP, C++, MYSQL5
+
+
