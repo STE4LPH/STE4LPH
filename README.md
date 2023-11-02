@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 
 • 🛠️ Lenguajes que domino: PYTHON, HTML5, BASH, PHP, C++, MYSQL5
 
+<p align="center"><img src="text.gif"/></p> 
 
