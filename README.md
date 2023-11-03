@@ -1,5 +1,5 @@
 <h1 align="center">⚜️ Bienvenido a mi agujero del Ciberspacio ⚜️</h1>
-<p align="center"><img src="shs.gif" width=500 height=400/></p>
+<p align="center"><img src="one.gif" width=500 height=400/></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
