@@ -6,7 +6,7 @@
 
 #### Acerca de Mí
 
-- 💻 Un navegante del ciberspacio.
+- 💻 Navegante entre las sombras del ciberspacio.
 - 🔭 Explorador de las profundidades de la web.
 - 🧙‍♂️ Tejiendo realidades en el mundo digital.
 - 📡 Buscando el código oculto en la matriz.
